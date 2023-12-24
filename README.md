@@ -58,7 +58,7 @@ To delete a stock, make a DELETE request to /deletestock/{id}
 
 To retrive a stock, make a GET request to /stock/{id}
 
-To update a stock, make a PUT request to /stock/{it}
+To update a stock, make a PUT request to /stock/{id}
 
 To retrive all stocks, make a GET request to /stock
 
